@@ -1,1 +1,3 @@
-Já faz um tempo que não estudo GIT, creio que está na hora de desenferrujar
+Já faz um tempo que não estudo GIT, creio que está na hora de desenferrujar.
+
+Dessa vez estou utilizando o curso de Git do "Dev Aprender"
